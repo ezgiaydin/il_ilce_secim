@@ -1,0 +1,26 @@
+nav a{
+	color: #fff;
+}
+.navbar-expand-lg .navbar-nav {
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-left: 430px;
+}
+.firma-ara{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.form-arka-plan{
+    background-image: url("https://cdn.filepicker.io/api/file/1WxRtkAQG5h70aoPQdGA/convert?format=jpeg&quality=50");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.acik-renk-form{
+    background: rgba(255, 255, 255, 0.58);
+}
+.foto1{
+    width: 50px;
+}
+
+
